@@ -28,8 +28,8 @@ This project explores the automated prediction of loan approvals and credit risk
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone https://github.com/AbdullahSajid007/Automated-Credit-Risk-Assessment-Predicting-Loan-Approvals-with-Deep-Learning-and-Ensemble-Methods.git
+   cd Automated-Credit-Risk-Assessment-Predicting-Loan-Approvals-with-Deep-Learning-and-Ensemble-Methods
 ````
 
 2.  **Create a virtual environment (optional but recommended):**
