@@ -22,7 +22,6 @@ This project explores the automated prediction of loan approvals and credit risk
 * **Distributions:** Log-scaled applicant income, loan amounts, and age distributions.
 * **Correlations:** Heatmap analysis of numeric variables to identify multicollinearity.
 * **Model Performance:** Seaborn-styled confusion matrices to visualize False Positives and False Negatives.
-> *(Tip: Drag and drop your `.png` chart files here to display them in the README!)*
 
 ## ⚙️ Installation & Setup
 
